@@ -1,0 +1,6 @@
+remediation-reports/*.md
+remediation-reports/*.json
+*.json
+!rules.json
+__pycache__/
+*.pyc
